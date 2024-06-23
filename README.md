@@ -13,6 +13,7 @@ Making an AI Plugin for nvim, because the one I wanted didn’t work for me.
 ## How to install
 I don’t know, I’ll do something when I have time to figure this stuff out. For now, you just get the lua script.
 
+<hr />
 For any questions, contact me at agheieff@pm.me.
 
 Thanks to <a href="https://github.com/melbaldove">melbaldove</a> for his plugin, and the idea, and <a href="https://github.com/yacineMTB">yacine</a> for the inspiration with his original plugin that he used in VSCode
